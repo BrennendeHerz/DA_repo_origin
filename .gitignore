@@ -1,0 +1,6 @@
+#ingnoring folder with logs
+logs/
+
+#ignoring only text files in "docs" folder
+docs/*.txt
+/Новый точечный рисунок.bmp
