@@ -4,4 +4,4 @@ third string
 forth string
 fifth string
 
-7-th string
+7-th strin
