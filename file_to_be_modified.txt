@@ -5,5 +5,7 @@ forth string
 fifth string
 
 7-th strin
-form branch "master"
+some string from DA_repo_2 #1
+form branch "master" changed in DA_repo2
+some string from DA_repo_2 #2
 hello new branch!
